@@ -1,0 +1,11 @@
+TODO:
+
+custom hotkeys:
+Harvest Wood: j
+Slaughter:
+Uninstall: z
+Claim:
+Strip:
+Open:
+
+C:\Users\danie\Google Drive\Modding\RimWorld\DEHotkeys\Assemblies\..\About" "C:\Users\danie\Google Drive\Modding\RimWorld\DEHotkeys\Assemblies\..\DEHotkeys\About"  /s /r /k" exited with code 2.	DEHotkeys			
