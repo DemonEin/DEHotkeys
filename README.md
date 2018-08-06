@@ -2,8 +2,6 @@ DEHotkeys
 
 A Rimworld mod by DemonEinstein
 
-https://github.com/DemonEinstein/DEHotkeys
-
 
 Features:
 	This mod makes the order hotkeys work when you are not in the order menu. The hotkeys are disabled
