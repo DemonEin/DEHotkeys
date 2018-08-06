@@ -1,5 +1,8 @@
 DEHotkeys
+
 A Rimworld mod by DemonEinstein
+
+https://github.com/danielwarner00/DEHotkeys
 
 
 Features:
@@ -8,7 +11,9 @@ Features:
 	adds two new hotkeys which did not previously have their own keys: J to harvest wood and Z to
 	uninstall buildings.
 
+
 uses Harmony v1.1.0 by pardeike
 
+
 MIT License
-Released
+Released 

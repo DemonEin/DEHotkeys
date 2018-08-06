@@ -1,16 +1,5 @@
 TODO:
 add release date in README
-add forum link in README and About.xml
-
-
-Releases:
-github release
-steam workshop
-forum release
-update + rerelease on github
-steam workshop release
-add to rimworld wiki mod list? mod database?
-
 
 additional hotkeys:
 Harvest Wood: j
