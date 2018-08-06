@@ -2,7 +2,7 @@ DEHotkeys
 
 A Rimworld mod by DemonEinstein
 
-https://github.com/danielwarner00/DEHotkeys
+https://github.com/DemonEinstein/DEHotkeys
 
 
 Features:
