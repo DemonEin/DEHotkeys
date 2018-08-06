@@ -1,11 +1,21 @@
 TODO:
+add release date in README
+add forum link in README and About.xml
 
-custom hotkeys:
+
+Releases:
+github release
+steam workshop
+forum release
+update + rerelease on github
+steam workshop release
+add to rimworld wiki mod list? mod database?
+
+
+additional hotkeys:
 Harvest Wood: j
 Slaughter:
 Uninstall: z
 Claim:
 Strip:
 Open:
-
-C:\Users\danie\Google Drive\Modding\RimWorld\DEHotkeys\Assemblies\..\About" "C:\Users\danie\Google Drive\Modding\RimWorld\DEHotkeys\Assemblies\..\DEHotkeys\About"  /s /r /k" exited with code 2.	DEHotkeys			
