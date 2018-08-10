@@ -15,4 +15,4 @@ uses Harmony v1.1.0 by pardeike
 
 MIT License
 
-Released August 6, 2018
+Released August 10, 2018
