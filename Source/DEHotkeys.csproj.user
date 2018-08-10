@@ -8,4 +8,7 @@
     <StartAction>URL</StartAction>
     <StartURL>www.google.com</StartURL>
   </PropertyGroup>
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
 </Project>
