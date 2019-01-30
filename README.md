@@ -1,4 +1,4 @@
-DEHotkeys
+DEHotkeys v. 1.1
 
 A Rimworld mod by DemonEinstein
 

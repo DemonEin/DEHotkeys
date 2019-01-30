@@ -3,8 +3,8 @@
 	<name>DEHotkeys</name>
 	<author>DemonEinstein</author>
 	<supportedVersions>
-    <li>0.19.1987</li>
-    <li>1.0.2150</li>
+    <li>0.19</li>
+    <li>1.0</li>
   </supportedVersions>
 	<description>This mod makes the order hotkeys work when you are not in the order menu. The hotkeys are disabled whenever you are in another menu that involves hotkeys so that they do not interfere. The mod also adds two new hotkeys which did not previously have their own keys: J to harvest wood and Z to uninstall buildings.</description>
 	<url>https://github.com/DemonEinstein/DEHotkeys</url>
